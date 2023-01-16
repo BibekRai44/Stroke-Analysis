@@ -8,3 +8,5 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 Aim :
 
 To classify / predict whether a patient can suffer a stroke.
+
+Link to the DataSet : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
