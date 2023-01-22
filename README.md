@@ -10,3 +10,6 @@ Aim :
 To classify / predict whether a patient can suffer a stroke.
 
 Link to the DataSet : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
+**Check the insights**
+https://docs.google.com/document/d/1HzQ_ekUNoY3m5Lxba0Hgnisvn2aX-G0QhiNz01dk0eE/edit?usp=sharing 
